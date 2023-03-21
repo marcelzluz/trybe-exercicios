@@ -7,7 +7,7 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 ## Fundamentos do Desenvolvimento Web :heavy_check_mark: <!--Revisar Totalidade do Readme-->
 
 ##### Bloco 1: [Unix, Bash e Shell Script](https://github.com/marcelzluz/trybe-exercises/tree/master/01-fundamentos/bloco-01-unix-bash-e-shell-script)
- - [ ] 1.3 - Fundamentos do Desenvolvimento Web   <!--Revisar Conteúdos de dia / seção-->
+- [ ] 1.3 - Fundamentos do Desenvolvimento Web   <!--Revisar Conteúdos de dia / seção-->
 - [ ] 1.3 - Introdução - Unix & Shell
 - [ ] 1.3 - Unix & Bash - Parte 1
 - [ ] 1.4 - Unix & Bash - Parte 2
