@@ -6,13 +6,13 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 
 ## Fundamentos do Desenvolvimento Web :heavy_check_mark: 
 
-##### Bloco 1: [Unix, Shell e Git](https://github.com/marcelzluz/trybe-exercicios/tree/feature-readme/modulos/fundamentos/secao-01-unix-shell-e-git)
+##### Seção 1: [Unix, Shell e Git](https://github.com/marcelzluz/trybe-exercicios/tree/feature-readme/modulos/fundamentos/secao-01-unix-shell-e-git)
 - [ ] 1.1 - Introdução à Unix & Shell 
 - [ ] 1.1 - Unix & Shell  
 - [ ] 1.2 - Git - O que é e pra que serve
 - [ ] 1.3 - Git & GitHub - Entendendo os comandos
 
-##### Bloco 2: [Introdução à HTML & CSS](https://github.com/marcelzluz/trybe-exercicios/tree/feature-readme/modulos/fundamentos/secao-02-introducao-a-html-e-css)
+##### Seção 2: [Introdução à HTML & CSS](https://github.com/marcelzluz/trybe-exercicios/tree/feature-readme/modulos/fundamentos/secao-02-introducao-a-html-e-css)
 - [ ] 2.1 - Introdução à HTML & CSS
 - [ ] 2.1 - HTML & CSS - Estruturas de página
 - [ ] 2.2 - HTML & CSS - Primeiros passos em CSS
@@ -20,7 +20,7 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [ ] 2.4 - HTML Semântico
 - [ ] 2.5 - Projeto - Lessons Learned
 
-##### Bloco 3: [Introdução à Javascript](https://github.com/marcelzluz/trybe-exercicios/tree/feature-readme/modulos/fundamentos/secao-03-introducao-a-javascript)
+##### Seção 3: [Introdução à Javascript](https://github.com/marcelzluz/trybe-exercicios/tree/feature-readme/modulos/fundamentos/secao-03-introducao-a-javascript)
 - [ ] 3.1 - Introdução à Javascript
 - [ ] 3.1 - JavaScript - Primeiros passos
 - [ ] 3.2 - JavaScript - Array e loop For
@@ -29,7 +29,7 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [ ] 3.5 - JavaScript ES6 - let, const, arrow, functions e template literals
 - [ ] 3.5 - Projeto - Playground functions 
 
-##### Bloco 4: [Javascript: DOM, Eventos e Web Storage](https://github.com/marcelzluz/trybe-exercicios/tree/feature-readme/modulos/fundamentos/secao-04-javascript-dom-eventos-e-web-storage)
+##### Seção 4: [Javascript: DOM, Eventos e Web Storage](https://github.com/marcelzluz/trybe-exercicios/tree/feature-readme/modulos/fundamentos/secao-04-javascript-dom-eventos-e-web-storage)
 - [ ] 4.1 - JavaScript - DOM e seletores
 - [ ] 4.2 - JavaScript - Trabalhando com elementos
 - [ ] 4.3 - JavaScript - Eventos
@@ -37,7 +37,7 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [ ] 4.5 - JavaScript - Projeto - Arte cp, Pixels
 - [ ] 4.6 - Projetos Bonus
 
-##### Bloco 5: [HTML e CSS: Forms, Flexbox e Responsivo](https://github.com/marcelzluz/trybe-exercicios/tree/feature-readme/modulos/fundamentos/secao-05-html-e-css-forms-flexbox-e-reponsivo)
+##### Seção 5: [HTML e CSS: Forms, Flexbox e Responsivo](https://github.com/marcelzluz/trybe-exercicios/tree/feature-readme/modulos/fundamentos/secao-05-html-e-css-forms-flexbox-e-reponsivo)
 - [ ] 5.1 - HTML & CSS - Forms
 - [ ] 5.2 - Bibliotecas JavaScript e Frameworks CSS
 - [ ] 5.3 - Introdução - CSS Flexbox
@@ -46,13 +46,13 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 - [ ] 5.5 - CSS Responsivo - Mobile First
 - [ ] 5.6 - Projeto - Trybewarts
 
-##### Bloco 6: [Introdução à JavaScript ES6 e Testes Unitários](https://github.com/marcelzluz/trybe-exercicios/tree/feature-readme/modulos/fundamentos/secao-06-introducao-a-javascript-es6-e-testes-unitarios)
+##### Seção 6: [Introdução à JavaScript ES6 e Testes Unitários](https://github.com/marcelzluz/trybe-exercicios/tree/feature-readme/modulos/fundamentos/secao-06-introducao-a-javascript-es6-e-testes-unitarios)
 - [ ] 6.1 - Fluxo de esceções e manipulação de objetos
 - [ ] 6.2 - Primeiros passos em Jest
 - [ ] 6.3 - Matchers e cobertura de código
 - [ ] 6.4 - Projeto - Javascript Testes Unitários
 
-##### Bloco 7: [Higher Order Functions do JavaScript ES6](https://github.com/marcelzluz/trybe-exercicios/tree/feature-readme/modulos/fundamentos/secao-07-higher-order-funcions-do-javascript-es6)
+##### Seção 7: [Higher Order Functions do JavaScript ES6](https://github.com/marcelzluz/trybe-exercicios/tree/feature-readme/modulos/fundamentos/secao-07-higher-order-funcions-do-javascript-es6)
 - [ ] 7.1 - Introdução a High Order Functions
 - [ ] 7.2 - High Order Functions - sort e map
 - [ ] 7.3 - High Order Functions - filter e reduce
