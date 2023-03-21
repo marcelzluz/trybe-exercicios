@@ -4,79 +4,61 @@ Contém todas as atividades desenvolvidas por __[mim](https://www.linkedin.com/i
 
 >"O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais."
 
-## Fundamentos do Desenvolvimento Web :heavy_check_mark: <!--Revisar Totalidade do Readme-->
+## Fundamentos do Desenvolvimento Web :heavy_check_mark: 
 
-##### Bloco 1: [Unix, Bash e Shell Script](https://github.com/marcelzluz/trybe-exercises/tree/master/01-fundamentos/bloco-01-unix-bash-e-shell-script)
-- [ ] 1.3 - Fundamentos do Desenvolvimento Web   <!--Revisar Conteúdos de dia / seção-->
-- [ ] 1.3 - Introdução - Unix & Shell
-- [ ] 1.3 - Unix & Bash - Parte 1
-- [ ] 1.4 - Unix & Bash - Parte 2
+##### Bloco 1: [Unix, Shell e Git](https://github.com/marcelzluz/trybe-exercicios/tree/feature-readme/modulos/fundamentos/secao-01-unix-shell-e-git)
+- [ ] 1.1 - Introdução à Unix & Shell 
+- [ ] 1.1 - Unix & Shell  
+- [ ] 1.2 - Git - O que é e pra que serve
+- [ ] 1.3 - Git & GitHub - Entendendo os comandos
 
-##### Bloco 2: [Git, GitHub e Internet](https://github.com/marcelzluz/trybe-exercises/tree/master/01-fundamentos/bloco-02-git-github-e-internet)
-- [ ] 2.1 - Git & GitHub  - O que é e para que serve
-- [ ] 2.2 - Git & GitHub - Entendendo os comandos
-- [ ] 2.3 - Internet - Entendendo como ela funciona
+##### Bloco 2: [Introdução à HTML & CSS](https://github.com/marcelzluz/trybe-exercicios/tree/feature-readme/modulos/fundamentos/secao-02-introducao-a-html-e-css)
+- [ ] 2.1 - Introdução à HTML & CSS
+- [ ] 2.1 - HTML & CSS - Estruturas de página
+- [ ] 2.2 - HTML & CSS - Primeiros passos em CSS
+- [ ] 2.3 - HTML & CSS - Seletores e posicionamento
+- [ ] 2.4 - HTML Semântico
+- [ ] 2.5 - Projeto - Lessons Learned
 
-##### Bloco 3: [Introdução à HTML e CSS](https://github.com/marcelzluz/trybe-exercises/tree/master/01-fundamentos/bloco-03-introducao-a-html-e-css)
-- [ ] 3.1 - Introdução - HTML & CSS
-- [ ] 3.1 - HTML & CSS - Estruturas de página
-- [ ] 3.2 - HTML & CSS - Primeiros passos em CSS
-- [ ] 3.3 - HTML & CSS - Seletores e posicionamento
-- [ ] 3.4 - HTML Semântico
-- [ ] 3.5 - Projeto - Lessons Learned
+##### Bloco 3: [Introdução à Javascript](https://github.com/marcelzluz/trybe-exercicios/tree/feature-readme/modulos/fundamentos/secao-03-introducao-a-javascript)
+- [ ] 3.1 - Introdução à Javascript
+- [ ] 3.1 - JavaScript - Primeiros passos
+- [ ] 3.2 - JavaScript - Array e loop For
+- [ ] 3.3 - JavaScript - Funções
+- [ ] 3.4 - JavaScript - Objetos
+- [ ] 3.5 - JavaScript ES6 - let, const, arrow, functions e template literals
+- [ ] 3.5 - Projeto - Playground functions 
 
-##### Bloco 4: [Introdução à JavaScript e Lógica de Programação](https://github.com/marcelzluz/trybe-exercises/tree/master/01-fundamentos/bloco-04-introducao-a-javascript-e-logica-de-programacao)
-- [ ] 4.1 - Introdução - JavaScript
-- [ ] 4.1 - JavaScript - Primeiros passos
-- [ ] 4.2 - JavaScript - Array e loop For
-- [ ] 4.3 - JavaScript - Lógica de Programação e Algoritmos
-- [ ] 4.4 - JavaScript - Objetos e funções
-- [ ] 4.5 - Projeto - Playground Functions
+##### Bloco 4: [Javascript: DOM, Eventos e Web Storage](https://github.com/marcelzluz/trybe-exercicios/tree/feature-readme/modulos/fundamentos/secao-04-javascript-dom-eventos-e-web-storage)
+- [ ] 4.1 - JavaScript - DOM e seletores
+- [ ] 4.2 - JavaScript - Trabalhando com elementos
+- [ ] 4.3 - JavaScript - Eventos
+- [ ] 4.4 - JavaScript - Web Storage
+- [ ] 4.5 - JavaScript - Projeto - Arte cp, Pixels
+- [ ] 4.6 - Projetos Bonus
 
-##### Bloco 5: [JavaScript: DOM, Eventos e Web Storage](https://github.com/marcelzluz/trybe-exercises/tree/master/01-fundamentos/bloco-05-javascript-dom-eventos-e-web-storage)
-- [ ] 5.1 - JavaScript - DOM e seletores
-- [ ] 5.2 - JavaScript - Trabalhando com elementos
-- [ ] 5.3 - JavaScript - Eventos
-- [ ] 5.4 - JavaScript - Web Storage
-- [ ] 5.5 - Fundamentos - JavaScript - Projetos
-- [ ] 5.5 - Projeto - Arte com Pixels
-- [ ] 5.6 - Projeto - Lista de tarefas
-- [ ] 5.7 - (Bônus) Projeto - Meme Generator
-- [ ] 5.7 - (Bônus) Projeto - Adivinhe a Cor
-- [ ] 5.7 - (Bônus) Projeto - Carta Misteriosa
+##### Bloco 5: [HTML e CSS: Forms, Flexbox e Responsivo](https://github.com/marcelzluz/trybe-exercicios/tree/feature-readme/modulos/fundamentos/secao-05-html-e-css-forms-flexbox-e-reponsivo)
+- [ ] 5.1 - HTML & CSS - Forms
+- [ ] 5.2 - Bibliotecas JavaScript e Frameworks CSS
+- [ ] 5.3 - Introdução - CSS Flexbox
+- [ ] 5.3 - CSS Flexbox - Parte 1
+- [ ] 5.4 - CSS Flexbox - Parte 2
+- [ ] 5.5 - CSS Responsivo - Mobile First
+- [ ] 5.6 - Projeto - Trybewarts
 
-##### Bloco 6: [HTML e CSS: Forms, Flexbox e Responsivo](https://github.com/marcelzluz/trybe-exercises/tree/master/01-fundamentos/bloco-06-html-e-css-forms-flexbox-e-responsivo)
-- [ ] 6.1 - HTML & CSS - Forms
-- [ ] 6.2 - Bibliotecas JavaScript e Frameworks CSS
-- [ ] 6.3 - Introdução - CSS Flexbox
-- [ ] 6.3 - CSS Flexbox - Parte 1
-- [ ] 6.4 - CSS Flexbox - Parte 2
-- [ ] 6.5 - CSS Responsivo - Mobile First
-- [ ] 6.6 - Projeto - Página inicial do Facebook
+##### Bloco 6: [Introdução à JavaScript ES6 e Testes Unitários](https://github.com/marcelzluz/trybe-exercicios/tree/feature-readme/modulos/fundamentos/secao-06-introducao-a-javascript-es6-e-testes-unitarios)
+- [ ] 6.1 - Fluxo de esceções e manipulação de objetos
+- [ ] 6.2 - Primeiros passos em Jest
+- [ ] 6.3 - Matchers e cobertura de código
+- [ ] 6.4 - Projeto - Javascript Testes Unitários
 
-##### Bloco 7: [Introdução à JavaScript ES6 e Testes Unitários](https://github.com/marcelzluz/trybe-exercises/tree/master/01-fundamentos/bloco-07-introducao-a-javascript-es6-e-testes-unitarios)
-- [ ] 7.1 - JavaScript ES6 - let, const, arrow functions e template literals
-- [ ] 7.2 - JavaScript ES6 - Objects
-- [ ] 7.3 - Testes unitários em JavaScript
-- [ ] 7.4 - Projeto - JavaScript Testes Unitários
-
-##### Bloco 8: [Higher Order Functions do JavaScript ES6](https://github.com/marcelzluz/trybe-exercises/tree/master/01-fundamentos/bloco-08-high-order-functions-do-javascript-es6)
-- [ ] 8.1 - JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
-- [ ] 8.2 - JavaScript ES6 - Higher Order Functions - map e filter
-- [ ] 8.3 - JavaScript ES6 - Higher Order Functions - reduce
-- [ ] 8.4 - JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
-- [ ] 8.5 - Projeto - Zoo functions
-
-##### Bloco 9: [JavaScript Assíncrono e Promises](https://github.com/marcelzluz/trybe-exercises/tree/master/01-fundamentos/bloco-09-javascript-assincrono-e-promises)
-- [ ] 9.1 - JavaScript Assíncrono e Callbacks
-- [ ] 9.2 - JavaScript Promises
-- [ ] 9.3 - Projeto - Carrinho de Compras
-
-##### Bloco 10: [Testes automatizados com Jest](https://github.com/marcelzluz/trybe-exercises/tree/master/01-fundamentos/bloco-10-testes-automatizados-com-jest)
-- [ ] 10.1 - Primeiros passos no Jest
-- [ ] 10.2 - Jest - Testes Assíncronos
-- [ ] 10.3 - Jest - Simulando comportamentos
-- [ ] 10.4 - Projeto - Jest Assíncrono e Mocking
+##### Bloco 7: [Higher Order Functions do JavaScript ES6](https://github.com/marcelzluz/trybe-exercicios/tree/feature-readme/modulos/fundamentos/secao-07-higher-order-funcions-do-javascript-es6)
+- [ ] 7.1 - Introdução a High Order Functions
+- [ ] 7.2 - High Order Functions - sort e map
+- [ ] 7.3 - High Order Functions - filter e reduce
+- [ ] 7.4 - JavaScript ES6 - spread operator, rest parameters e object destructuring
+- [ ] 7.5 - JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand e default parameters
+- [ ] 7.6 - Projeto - Zoo functions
 
 ## Desenvolvimento Front-end :heavy_check_mark:
 
