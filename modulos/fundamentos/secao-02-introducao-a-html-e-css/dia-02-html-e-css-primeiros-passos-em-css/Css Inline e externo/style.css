@@ -1,0 +1,26 @@
+        h1 {
+            font-size: 65px;
+            color: darkred;
+        }
+        
+        h3 {
+            color: limegreen;
+        }
+
+        body {
+            background-color: rgb(255, 400, 200)
+        }
+
+        #personal-describ {
+            background-color:darkgray;
+        }    
+        
+        #habilidades {
+           color: blue;
+        }
+
+        .list-style {
+            background-color: rgb(162, 162, 223);
+            color: white;
+        }
+
