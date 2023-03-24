@@ -15,7 +15,7 @@ h1, h2, h3 {
 }
 
 h1 em, h2 em, h3 em {
-    font size: 40px;
+    font-size: 40px;
     border: 1px solid black;
 }
 
@@ -36,7 +36,7 @@ li em {
 }
 
 .aliados li a:hover {
-    font-weight: bold;
+    font-weight: bold
 }
 
 .aliados li a[href*="stackoverflow"] {
